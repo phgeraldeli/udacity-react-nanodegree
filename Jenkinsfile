@@ -1,4 +1,4 @@
- @Library('pipeline-library-demo')_
+ @Library('Shared Library Learning')_
 
  stage('Demo') {
      echo 'Hello world'
